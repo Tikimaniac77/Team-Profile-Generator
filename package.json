@@ -1,0 +1,26 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "app to create team profile generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tikimaniac77/Team-Profile-Generator.git"
+  },
+  "author": "Michael Wachtel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tikimaniac77/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/Tikimaniac77/Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.3.1"
+  }
+}
