@@ -13,7 +13,7 @@ The information that is input is used to generate an HTML page.
 * [Questions](#questions)
 
 ## Installation 
-clone the repository from GitHub and download Node. Run npm install in the command line. 
+clone the repository from GitHub and download Node. Run `npm install` in the command line. 
 This application uses Jest to test. 
 
 ## Usage 
