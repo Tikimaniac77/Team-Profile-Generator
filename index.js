@@ -16,6 +16,7 @@ const arrayTEAM = [];
 
 //prompts for Manager
 const newManager = () => {
+    console.log('Add Manager Information.')
     return inquirer.prompt ([
         {
             type: 'input',
@@ -43,13 +44,14 @@ const newManager = () => {
         const mgr = new Manager (name, id, email, officeNumber);
 
         arrayTEAM.push(mgr);
-        console.log(manager);
+        console.log(mgr);
     })
 };
 
 //prompts for adding a new employee
 
 const newEmployee = () => {
+    console.log('Add employee Information.')
     return inquirer.prompt ([
         {
             type: 'list',
@@ -66,6 +68,11 @@ const newEmployee = () => {
             type: 'input',
             name: 'id',
             message: 'Please enter a number to be assigned as your Employees ID.'
+        },
+        {
+            type: 'input',
+            name: 'email',
+            message: "Please enter the employee's email address."
         },
         {
             type: 'input',
