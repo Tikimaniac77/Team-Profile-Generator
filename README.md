@@ -13,13 +13,13 @@ The information that is input is used to generate an HTML page.
 * [Questions](#questions)
 
 ## Installation 
-clone the repository from GitHub and download Node. Run `npm install` in the command line. 
+Clone the repository from GitHub and download Node. Run `npm install` in the command line. 
 This application uses Jest to test. 
 
 ## Usage 
-use the command line to answer questions about your project.
-View walk through video here - [Screencastify](...)<br>
-<img src="...">
+Use the command line to answer questions about your project.
+View walk through video here - [Screencastify](https://watch.screencastify.com/v/hYADTgSDop5mB3he2qrr)
+![Screengrab of Team Profile Generator](Assets\Team-Profile-Generator.png)
 
 ## License 
 This project is license under MIT

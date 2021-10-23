@@ -11,7 +11,7 @@ body {
     font-family: fantasy;
 }
 
-#nav {
+#navbar {
     background-color: var(--primary);
     color: var(--secondary);
     font-size: 50px;
