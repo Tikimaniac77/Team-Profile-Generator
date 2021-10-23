@@ -19,7 +19,7 @@ This application uses Jest to test.
 ## Usage 
 Use the command line to answer questions about your project.
 View walk through video here - [Screencastify](https://watch.screencastify.com/v/hYADTgSDop5mB3he2qrr)
-![Screengrab of Team Profile Generator](Assets\Team-Profile-Generator.png)
+![Screengrab of Team Profile Generator](./Assets/Team-Profile-Generator.png)
 
 ## License 
 This project is license under MIT
